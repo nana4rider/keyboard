@@ -1,6 +1,6 @@
 # Keyboard
 
-![My Keyboard](images/7sProMax.jpg)
+![My Keyboard](images/7spromax.jpg)
 
 |部品|購入品|
 | :- | :- |
